@@ -5,7 +5,7 @@
 public class Chapter2_Note {
 
 	public static void main(String[] args) {
-		/*	A variable represents a value stored in the computer’s memory. */
+		/*	A variable represents a value stored in the computerâ€™s memory. */
 		int radius = 5; //declaring the radius variable
 		/*	int is a data type. Each variable stores a specific type of data. */
 		
@@ -123,11 +123,11 @@ public class Chapter2_Note {
 		/* 	A constant must be declared and initialized in the same statement.
 		 * 	The word final is a Java keyword for declaring a constant. 
 		 * 	There are three benefits of using constants:
-		 *	(1) you don’t have to repeatedly type the same value if it is used
+		 *	(1) you donâ€™t have to repeatedly type the same value if it is used
 		 *	multiple times.
 		 *	(2) if you have to change the constant value, you need to change it 
 		 *	only in a single location in the source code.
-		 *	(3) a descriptive name for a constant makes the program easy to read 
+		 *	(3)Â a descriptive name for a constant makes the program easy to read 
 		 */
 		
 		/*	Naming Conventions
@@ -197,7 +197,7 @@ public class Chapter2_Note {
 		
 		/* 	Type casting 
 		 * 	Casting is an operation that converts a value of one data type 
-		 * 	into a value of another data type.
+		 * 	into a value of another dataÂ type.
 		 * 	Casting does not change the variable being cast, just returns value.
 		 * 	Java will automatically widen a type, but you must narrow a type 
 		 * 	explicitly, like casting double to an int.
