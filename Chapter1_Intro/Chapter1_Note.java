@@ -87,7 +87,7 @@ public class Chapter1_Note {	// defines a class
  *  method header.
  *  
  *  Indentation is used to illustrate the structural relationships between a 
- *  program’s components or statements. Indent each subcomponent or statement 
+ *  programâ€™s components or statements. Indent each subcomponent or statement 
  *  at least two spaces more than the construct within which it is nested.
  *  
  *  A single space should be added on both sides of a binary operator,
